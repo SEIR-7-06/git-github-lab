@@ -15,7 +15,7 @@ Prerequisites: Github, git, HTML, CSS
 
 ## Part 1 - Github
 
-### Read all the instructions below before you do anything.  With every lab/homework/project/activity/exercise we give you, ***always*** read through all the instructions before you do start.
+### Read all the instructions below before you do anything.
 
 1. **Do not fork or clone this repository.** In your terminal navigate to your `sei/fundamentals` directory and create a new directory called `git-github-lab`. Change directory into `git-github-lab`.
 
